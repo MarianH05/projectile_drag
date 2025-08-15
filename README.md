@@ -5,7 +5,7 @@ It allows you to compare how drag affects the trajectory, range, and flight time
 
 
 ## Repository Structure
-
+```
 projectile_drag/
 ├── src/
 │ └── projectile.m # MATLAB script generating trajectory plot
@@ -16,7 +16,7 @@ projectile_drag/
 │ ├── projectile.tex # LaTeX source report
 │ └── projectile.pdf # Compiled report
 └── README.md # This file
-
+```
 
 ## How to Run 
 
